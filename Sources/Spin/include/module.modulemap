@@ -1,0 +1,3 @@
+module Spin {
+  header "Spin.h"
+}
